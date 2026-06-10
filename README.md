@@ -7,7 +7,7 @@ A curated list of censorship-DPI-bypass tools.
 > This list is focused on censorship circumvention and traffic resilience. While some included tools (e.g., Tor, Whonix) provide strong anonymity and privacy, their primary inclusion here is based on their effectiveness in bypassing network-level filtering.
 
 # Table of Contents
-- 🟢[Foundation: Minimalist 200-Line Core](#foundation-minimalist-200-line-core)
+- 🟢[Foundation: Minimalist 200-Line Core](#foundation-minimalist-200-line-core)🟢
 - [VPN Industry Standards](#vpn-industry-standards)
 - [About DNS](#about-dns)
 - [Proxy-based Anti-Censorship](#proxy-based-anti-censorship)
