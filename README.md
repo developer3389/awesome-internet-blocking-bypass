@@ -33,7 +33,7 @@ A curated list of censorship-DPI-bypass tools.
 > **The Key to the Future**
 >
 > The analysis of DPI failure is clear: the only way to win is to control your own transport.  
-> [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) is not just a demo — it is the **implementation of the strategy**. 
+> `simplest-vpn` is not just a demo — it is the **implementation of the strategy**. 
 > 
 > * **[Read our Strategic Analysis](https://github.com/developer3389/network-censorship-analysis)** to understand why custom tunneling is the only way forward.
 > * **[Explore the 200-line skeleton](https://github.com/developer3389/simplest-vpn)** to start building your own infrastructure today.
