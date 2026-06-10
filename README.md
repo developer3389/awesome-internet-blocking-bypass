@@ -1,9 +1,10 @@
 # Awesome Censorship-DPI-Bypass
 
 A curated list of censorship-DPI-bypass tools.
-
-> [!CAUTION]  
-> This list is focused on censorship circumvention, not anonymity or general privacy.
+ 
+> [!NOTE]
+> **Scope**  
+> This list is focused on censorship circumvention and traffic resilience. While some included tools (e.g., Tor, Whonix) provide strong anonymity and privacy, their primary inclusion here is based on their effectiveness in bypassing network-level filtering.
 
 # Table of Contents
 - [**Foundation: Minimalist 200-Line Core**](#foundation-minimalist-200-line-core)
