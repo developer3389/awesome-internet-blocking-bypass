@@ -1,6 +1,6 @@
-# Awesome Censorship-DPI-Bypass
+# Awesome Internet-Blocking-Bypass
 
-A curated list of censorship-DPI-bypass tools.
+A curated list of internet-blocking-bypass tools.
  
 > [!NOTE]
 > **Scope**  
