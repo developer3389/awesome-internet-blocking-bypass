@@ -92,7 +92,9 @@ A curated list of internet-blocking-bypass tools.
 * [**meek**](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/meek) – A domain-fronting-based transport that disguises Tor traffic as HTTPS to major cloud providers.
 
 ### I2P
-* [**I2P**](https://geti2p.net/) – An anonymous peer-to-peer overlay network optimized for internal hidden services and decentralized communication. Uses garlic routing and dynamically built tunnels to reduce traffic correlation and improve censorship resistance.
+* **I2P** – An anonymous peer-to-peer overlay network optimized for internal hidden services and decentralized communication. Uses garlic routing and dynamically built tunnels to reduce traffic correlation and improve censorship resistance.
+- [**Java Router**](https://geti2p.net/): Feature-rich reference implementation.
+- [**i2pd**](https://i2pd.website/): Lightweight, high-performance C++ implementation, ideal for resource-constrained environments.
 
 ## Encrypted Mesh Networks
 *Self-configuring encrypted overlay networks that provide peer-to-peer IP connectivity without traditional centralized routing.*
