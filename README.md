@@ -79,6 +79,7 @@ A curated list of internet-blocking-bypass tools.
 * [**VLESS**](https://xtls.github.io/en/config/inbounds/vless.html) – A stateless, lightweight transport protocol that minimizes packet overhead and eliminates predictable handshake patterns.
 * [**VMess**](https://www.v2fly.org/en_US/developer/protocols/vmess.html) – The original encrypted, stateful transport protocol for V2Ray. It uses a unique user ID (UUID) system and provides a flexible framework for traffic obfuscation, serving as the basis for many modern proxy configurations.
 * [**Sing-box**](https://github.com/SagerNet/sing-box) – The universal proxy platform. A modern, high-performance Go-based engine supporting Xray protocols (VLESS/Reality/VMess) alongside Hysteria, TUIC, and Shadowsocks.
+* [**3x-ui**](https://github.com/MHSanaei/3x-ui) – A widely used web-based panel for managing Xray-core configurations. It simplifies user management, protocol selection (VLESS/VMess/Trojan), and traffic monitoring.
 * [**Nekoray / Nekobox**](https://github.com/Matsuridayo/nekoray) – Cross-platform GUI clients (Windows/Linux/Android) based on Xray-core and Sing-box, providing a user-friendly interface for managing complex routing rules.
 * [**v2fly/v2ray-core**](https://github.com/v2fly/v2ray-core) – The foundational core that popularized VMess and modular routing; remains a standard for stability and extensive configuration support.
 
