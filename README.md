@@ -34,7 +34,7 @@ A curated list of internet-blocking-bypass tools.
 > **The Key to the Future**
 >
 > The analysis of DPI behavior is clear: the only way to win is to control your own transport.  
-> `simplest-vpn` is not just a demo — it is the **implementation of the strategy**. 
+> The project is not just a demo — it is the **implementation of the strategy**. 
 > 
 > * **[Read our Strategic Analysis](https://github.com/developer3389/network-censorship-analysis)** to understand why custom tunneling is the only way forward.
 > * **[Explore the 200-line skeleton](https://github.com/developer3389/simplest-vpn)** to start building your own infrastructure today.
