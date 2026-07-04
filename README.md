@@ -75,8 +75,12 @@ A curated list of internet-blocking-bypass tools.
 *Modern proxy framework and protocol ecosystem focused on traffic obfuscation and routing flexibility*
 
 * [**Xray-core**](https://github.com/XTLS/Xray-core) – A high-performance network engine supporting multiple transport protocols and complex routing configurations.
-* [**Reality**](https://github.com/XTLS/REALITY) – A cutting-edge security extension that allows traffic to perfectly mimic legitimate TLS connections to reputable websites. By borrowing the identity of existing, trusted servers, it eliminates the need for domain management and effectively neutralizes DPI signature analysis.
-* [**VLESS**](https://github.com/XTLS/Xray-core/blob/main/docs/transport/internet/security/reality.md) – A stateless, lightweight transport protocol that minimizes packet overhead and eliminates predictable handshake patterns, serving as the foundation for modern stealth configurations.
+* [**Reality**](https://github.com/XTLS/REALITY) – A cutting-edge security extension that allows traffic to perfectly mimic legitimate TLS connections to reputable websites, neutralizing DPI signature analysis.
+* [**VLESS**](https://github.com/XTLS/Xray-core/blob/main/docs/transport/internet/security/reality.md) – A stateless, lightweight transport protocol that minimizes packet overhead and eliminates predictable handshake patterns.
+* [**VMess**](https://www.v2fly.org/en_US/developer/protocols/vmess.html) – The original encrypted, stateful transport protocol for V2Ray. It uses a unique user ID (UUID) system and provides a flexible framework for traffic obfuscation, serving as the basis for many modern proxy configurations.
+* [**Sing-box**](https://github.com/SagerNet/sing-box) – The universal proxy platform. A modern, high-performance Go-based engine supporting Xray protocols (VLESS/Reality/VMess) alongside Hysteria, TUIC, and Shadowsocks.
+* [**Nekoray / Nekobox**](https://github.com/Matsuridayo/nekoray) – Cross-platform GUI clients (Windows/Linux/Android) based on Xray-core and Sing-box, providing a user-friendly interface for managing complex routing rules.
+* [**v2fly/v2ray-core**](https://github.com/v2fly/v2ray-core) – The foundational core that popularized VMess and modular routing; remains a standard for stability and extensive configuration support.
 
 ## Overlay Networks
 *Routing systems designed to resist censorship, traffic analysis, and network surveillance.*
